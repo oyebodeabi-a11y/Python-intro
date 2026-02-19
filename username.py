@@ -1,0 +1,7 @@
+print("enter your  name")
+name = input()
+print("enter your  email")
+email = input()
+print("enter your  number")
+number = input()
+print("These are my details: ",name,  email, number)

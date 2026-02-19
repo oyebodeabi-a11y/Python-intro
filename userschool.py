@@ -1,0 +1,7 @@
+print("enter your  schoolname")
+schoolname = input()
+print("enter your schooladdress")
+schooladdress = input()
+print("enter your schoolnumber")
+schoolnumber = input()
+print("These are my details: ",schoolname,  schooladdress, schoolnumber)
