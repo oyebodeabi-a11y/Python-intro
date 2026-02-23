@@ -5,3 +5,13 @@
 # Formula: SI=PTR/100
 
 # Solution
+loan1 = 500000
+t1 = 2
+r1 = 5/100
+loan2 = 900000
+t2 = 3
+r2 = 5/100
+totalsi = (loan1*2*r1)/100+(loan2*3*r2)/100
+print(totalsi)
+newtotalsi = totalsi/((loan1*2*r1)/100+(loan2*3*r2)/100)*100
+print(newtotalsi)

@@ -7,3 +7,13 @@
 # what the eldest and youngest got finally and  print them out
 
 # Solution
+worth = 300000
+inherit = (80/100*300000)
+print(inherit)
+eldest = (5/12*inherit)
+print(eldest)
+eldestshare = 70/100*eldest
+print(eldestshare)
+lowest = (3/12*inherit)
+lowestshare = 50/100*lowest
+print(lowestshare)

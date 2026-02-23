@@ -30,5 +30,3 @@ fruits = [
 print("This is the list of fruits:", fruits)
 fruits.remove("orange")
 print("This is the list of fruits:", fruits)
-
-

@@ -7,3 +7,6 @@
 # Write a python code that will remove groundnut from the list.
 
 # Solution
+listitems = "banana", "groundnut", "apple","pawpaw", "orange"
+listitems.add("yam")
+print(listitems)
