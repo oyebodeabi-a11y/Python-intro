@@ -30,3 +30,18 @@ fruits = [
 print("This is the list of fruits:", fruits)
 fruits.remove("orange")
 print("This is the list of fruits:", fruits)
+
+fruits = [
+    "orange", "orange", "orange",
+    "apple", "apple", "apple", "apple", "apple", "apple",
+    "banana", "pineapple", "mango", "pawpaw", "groundnut"
+]
+
+print("This is the list of fruits:", fruits)
+fruits.append("orange")
+print("This is the list of fruits:", fruits)
+
+for i in fruits:
+    print(i)
+
+
